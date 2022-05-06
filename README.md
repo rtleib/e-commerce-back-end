@@ -15,7 +15,7 @@
   ## Usage
   #### To use this, type in "node server" in the terminal to start the employee tracker.
   ## Contribution
-  #### Thank you to my tutor, the UTSA TAs, and my classmates for assisting me in this challenge.
+  #### Thank you to [Coding Boot Camp](https://github.com/coding-boot-camp/fantastic-umbrella) for the starter code. I also would like to thank my tutor, the UTSA TAs, and my classmates for assisting me in this challenge.
   ## Tests
   #### Recording of the generator:  [Click here to veiw video]().
   ## Questions
