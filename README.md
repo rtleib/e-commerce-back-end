@@ -13,7 +13,7 @@
   ## Installation
   #### In order for the generator to work, you would need to first install npm ("npm i") in the terminal.
   ## Usage
-  #### To use this, type in "node server" in the terminal to start the employee tracker.
+  #### To use this, type in "node server" in the terminal to start the E-commerce.
   ## Contribution
   #### Thank you to [Coding Boot Camp](https://github.com/coding-boot-camp/fantastic-umbrella) for the starter code. I also would like to thank my tutor, the UTSA TAs, and my classmates for assisting me in this challenge.
   ## Tests
